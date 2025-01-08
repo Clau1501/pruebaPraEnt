@@ -1,0 +1,4 @@
+1.Chistes: Contiene 3 chistes
+2.Adivinanza: Contiene 3 adivinanzas
+3.Refranes: Contiene 3 Refranes
+4.Trabalenguas: Contiene 3 trabalenguas
