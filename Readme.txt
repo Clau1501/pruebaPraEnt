@@ -1,0 +1,1 @@
+El proyecto se trata de crear 4 ramas y juntarlas en el reporsitorio principal.
